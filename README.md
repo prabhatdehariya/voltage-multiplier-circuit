@@ -24,10 +24,6 @@ The circuit increases the DC output voltage without using a step-up transformer.
 
 ---
 
-## Software Used
-- Proteus (Optional)
-
----
 
 ## Working Principle
 1. AC voltage is applied to the circuit.
@@ -37,15 +33,6 @@ The circuit increases the DC output voltage without using a step-up transformer.
 
 ---
 
-## Circuit Diagram
-
-
----
-
-## Output
-(Add output images here)
-
----
 
 ## Applications
 - CRT circuits
