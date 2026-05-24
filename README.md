@@ -38,7 +38,7 @@ The circuit increases the DC output voltage without using a step-up transformer.
 ---
 
 ## Circuit Diagram
-(Add circuit image here)
+
 
 ---
 
@@ -63,4 +63,4 @@ The circuit increases the DC output voltage without using a step-up transformer.
 ---
 
 ## Author
-Your Name
+Prabhat dehariya Electronics and Telecommunication 
